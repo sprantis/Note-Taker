@@ -12,13 +12,13 @@
 * [Questions](#questions)
 
 ## Description
-I created a note taker application based off of existing front end code. This appliaction allows users to write and save notes. Express.JS was used to buidl the back end.
+I created a note taker application based off of existing front end code. This application allows users to write and save notes. Express.JS was used to build the back end.
 
 ## Installation Instructions
 N/A
 
 ## Usage Information
-Visit the site, write some notes, then click the save icon!
+Visit the deployed site, write some notes, then click the save icon!
 
 Deployed Link:[https://fierce-gorge-36704.herokuapp.com/]
 
