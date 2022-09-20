@@ -22,7 +22,7 @@ Visit the deployed site, write some notes, then click the save icon!
 
 Deployed Link:[https://fierce-gorge-36704.herokuapp.com/]
 
-![Note Taker Screenshot](./Develop/public/assets/images/note-taker-screenshot.png)
+![Note Taker Screenshot](./public/assets/images/note-taker-screenshot.png)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
