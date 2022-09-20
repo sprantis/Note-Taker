@@ -20,7 +20,7 @@ N/A
 ## Usage Information
 Visit the site, write some notes, then click the save icon!
 
-Repo Link:[https://github.com/sprantis/note-taker]
+Deployed Link:[https://fierce-gorge-36704.herokuapp.com/]
 
 ![Note Taker Screenshot](./Develop/public/assets/images/note-taker-screenshot.png)
 
